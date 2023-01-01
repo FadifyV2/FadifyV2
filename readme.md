@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/RTX-ON-green?style=flat-square)](https://dsc.gg/raytracing)
 
 ## Your short description
-- 🔭 I’m currently working on RO:TX V2 (that's new)
+- 🔭 I’m currently working on gaying V2 (that's new)
 - 🌱 I’m currently learning how to sleep
 - 💬 Ask me about -  how to be pro
 - 🥅 2022 Goal - Create a new project.
